@@ -1,0 +1,14 @@
+# .gitignore
+
+# Ignore the virtual environment folder
+mySchoolVenv/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
